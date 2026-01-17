@@ -9,7 +9,7 @@
 ### Figure 1 — Adjusted genre-specific association (controlling for hours/day)
 This plot shows the **adjusted coefficient** for each genre’s listening frequency (“dose”) predicting **P(Improve)** while holding hours/day constant.
 
-![Adjusted genre coefficients (controlling for hours/day)](figures/fig3_adjusted_genre_coefficients.png)
+<img src="figures/fig3_adjusted_genre_coefficients.png" width="800" alt="Adjusted genre coefficients (controlling for hours/day)">
 
 ---
 
