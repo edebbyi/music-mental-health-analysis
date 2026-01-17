@@ -1,3 +1,15 @@
+## Key Findings
+
+- **Most respondents report music as emotionally beneficial**, but effects vary by genre and listening context.
+- **After controlling for total listening time (hours/day), several genres show positive or negative associations** between genre-specific listening frequency (“dose”) and reporting emotional improvement.
+- **Overall listening time is not a sufficient explanation** for perceived emotional benefit. Some less-listened genres show stronger positive adjusted associations, while heavily listened genres may be neutral or slightly negative in the adjusted model.
+
+## Selected Figures
+
+### Figure 1 — Adjusted genre-specific association (controlling for hours/day)
+This plot shows the **adjusted coefficient** for each genre’s listening frequency (“dose”) predicting **P(Improve)** while holding hours/day constant.
+
+![Adjusted genre coefficients (controlling for hours/day)](figures/fig3_adjusted_genre_coefficients.png)
 
 ---
 
