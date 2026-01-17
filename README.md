@@ -6,15 +6,15 @@
 
 ## Selected Figures
 
-### Figure 1 — Adjusted genre-specific association (controlling for hours/day)
+### Figure 1 — Listening frequency distribution by genre
+This plot contextualizes how often each genre is listened to across the sample.
+
+![Listening frequency distribution by genre](figures/fig2_listening_frequency_by_genre.png)
+
+### Figure 2 — Adjusted genre-specific association (controlling for hours/day)
 This plot shows the **adjusted coefficient** for each genre’s listening frequency (“dose”) predicting **P(Improve)** while holding hours/day constant.
 
 <img src="figures/fig3_adjusted_genre_coefficients.png" width="800" alt="Adjusted genre coefficients (controlling for hours/day)">
-
-### Figure 2 — Listening frequency distribution by genre
-This plot contextualizes how often each genre is listened to across the sample.
-
-![Listening frequency distribution by genre](figures/fig2_listening_frequency_distribution_by_genre.png)
 
 ---
 
