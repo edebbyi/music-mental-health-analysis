@@ -1,13 +1,16 @@
 
 ---
 
-## How to Use
+## How to Run
 
-Open the notebook in Jupyter or Google Colab and run cells top to bottom.  
-Interactive visualizations will render automatically if Plotly is available.
+1. Download the dataset from Kaggle:  
+   https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results
 
-Additional exploratory work and datasets are available on my Kaggle profile:  
-https://www.kaggle.com/code/deborahimafidon/mxmh-genre-analysis>
+2. Place `mxmh_survey_results.csv` in your preferred directory.
+
+3. Update the `DATA_PATH` variable in the notebook if needed.
+
+4. Run the notebook top to bottom.
 ---
 
 ## Future Directions
